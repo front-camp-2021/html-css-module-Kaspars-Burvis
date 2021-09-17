@@ -1,0 +1,16 @@
+body {
+  background: #F9F9F9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
