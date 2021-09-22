@@ -1,0 +1,30 @@
+body {
+  background: #F9F9F9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.site-body {
+  display: flex;
+  margin-bottom: 38px;
+}
+
+.container {
+  padding:0 33px;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 18px;
+  color: #2C2C2C;
+}
+
+.site {
+  margin: 0 auto;
+  max-width: 1920px;
+}
