@@ -1,9 +1,10 @@
 .goods-card {
+  flex:1 1 33%;
   background: #FFF;
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.135216);
   border-radius: 8px;
-  width: 400px;
-  height: 486px;
+  min-width: 312px;
+  min-height: 239px;
   margin: 10px 0;
   display: flex;
   flex-direction: column;
@@ -11,6 +12,7 @@
 
 .goods-card__img {
   flex: 1 1 auto;
+  margin: 33px;
 }
 
 .goods-card__wrap {

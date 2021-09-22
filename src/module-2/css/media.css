@@ -1,0 +1,15 @@
+
+@media (max-width: 1200px) {
+
+}
+
+
+@media (max-width: 720px) {
+	.filters {
+    display: none;
+  }
+}
+
+@media (max-width: 320px) {
+	
+}
