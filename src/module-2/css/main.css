@@ -1,6 +1,6 @@
 .main {
   width: 1256px;
-  padding: 0 30px;
+  padding: 0 10px;
 }
 
 .main__title-block {
@@ -76,8 +76,9 @@
 
 .goods {
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
 }
 
 .footer {

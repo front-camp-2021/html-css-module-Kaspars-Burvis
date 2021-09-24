@@ -1,5 +1,5 @@
 .filters {
-  width: 560px;
+  width: 540px;
 }
 
 .filters__title-block {
@@ -31,7 +31,7 @@
   background: #fff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.13);
   border-radius: 8px;
-  padding: 19px 50px 245px;
+  padding: 15px 15px;
   margin-bottom: 28px;
 }
 
