@@ -1,0 +1,28 @@
+@use "reset.scss";
+
+.header {
+  display: flex;
+  align-items: center;
+
+  &__logo {
+    height: 72px;
+    width: 91px;
+    padding: 5px;
+  }
+
+  &__title {
+    font-size: 48px;
+    font-weight: 600;
+    color: #7E72F2;
+    padding: 22px;
+  }
+}
+
+
+.breadcrumbs {
+  display: flex;
+
+  &__icon-chevrons {
+    padding: 0 13px;
+  }
+}

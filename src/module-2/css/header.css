@@ -1,0 +1,29 @@
+.header__logo-block {
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  height: 72px;
+  width: 91px;
+  padding: 5px;
+}
+
+.header__title {
+font-size: 48px;
+font-weight: 600;
+color: #7E72F2;
+padding: 22px;
+}
+
+.breadcrumbs {
+  display: flex;
+}
+
+.breadcrumbs__icon-home {
+  padding-right: 17px;
+}
+
+.breadcrumbs__icon-chevrons {
+  padding-right: 13px;
+}
